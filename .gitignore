@@ -1,0 +1,10 @@
+# directories
+__pycache__/
+*.pytest_cache/
+*ipynb_checkpoints/
+*.eggs/
+
+# file types to ignore
+*.pyc
+*.egg-info
+*.log
