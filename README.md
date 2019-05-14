@@ -5,6 +5,26 @@ This tool was used for the creation of the publication "Seasonal storage and alt
 
 HSC offers the functionality to calculate predefined hydrogen supply chain architectures.
 
+## Installation and application
+
+Download and install [Anaconda](https://www.anaconda.com/).
+
+Clone a local copy of the repository to your computer with git
+
+	git clone https://github.com/FZJ-IEK3-VSA/HSCPathways.git
+	
+or download it directly. Move to the folder
+
+	cd HSCPathways
+
+and install the required Python environment via
+
+	conda env create -f environment.yml
+. 
+
+Then run following [*Jupyter Notebook*](Workflow - Seasonal Storage and alternative carriers - A flexible hydrogen supply chain model.ipynb).
+
+
 ## About Us 
 <a href="http://www.fz-juelich.de/iek/iek-3/EN/Forschung/_Process-and-System-Analysis/_node.html"><img src="http://fz-juelich.de/SharedDocs/Bilder/IEK/IEK-3/Abteilungen2015/VSA_DepartmentPicture_2017.jpg?__blob=normal" alt="Abteilung VSA"></a> 
 
