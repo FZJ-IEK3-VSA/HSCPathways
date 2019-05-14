@@ -7,9 +7,7 @@ HSC offers the functionality to calculate predefined hydrogen supply chain archi
 
 ## Installation and application
 
-Download and install [Anaconda](https://www.anaconda.com/).
-
-Clone a local copy of the repository to your computer with git
+First, download and install [Anaconda](https://www.anaconda.com/). Then, clone a local copy of this repository to your computer with git
 
 	git clone https://github.com/FZJ-IEK3-VSA/HSCPathways.git
 	
@@ -19,10 +17,9 @@ or download it directly. Move to the folder
 
 and install the required Python environment via
 
-	conda env create -f environment.yml
-. 
+	conda env create -f environment.yml 
 
-Then run following [*Jupyter Notebook*](Workflow - Seasonal Storage and alternative carriers - A flexible hydrogen supply chain model.ipynb).
+Last, run following [*Jupyter Notebook*](Workflow - Seasonal Storage and alternative carriers - A flexible hydrogen supply chain model.ipynb) to reproduce the results. 
 
 
 ## About Us 
