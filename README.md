@@ -1,7 +1,7 @@
 <a href="http://www.fz-juelich.de/iek/iek-3/EN/Forschung/_Process-and-System-Analysis/_node.html"><img src="http://www.fz-juelich.de/SharedDocs/Bilder/IBG/IBG-3/DE/Plant-soil-atmosphere%20exchange%20processes/INPLAMINT%20(BONARES)/Bild3.jpg?__blob=poster" alt="Forschungszentrum Juelich Logo" width="230px"></a> 
 
 # HSC - Hydrogen infrastructure analysis tool for Python
-This tool was used for the creation of the publication "Seasonal storage and alternative carriers: A flexible hydrogen supply chain model" published in Applied Energy (https://doi.org/10.1016/j.apenergy.2017.05.050)
+This tool was used for the creation of the publication ["Seasonal storage and alternative carriers: A flexible hydrogen supply chain model"](https://doi.org/10.1016/j.apenergy.2017.05.050) published in Applied Energy
 
 HSC offers the functionality to calculate predefined hydrogen supply chain architectures.
 
@@ -21,6 +21,14 @@ and install the required Python environment via
 
 Last, run following [*Jupyter Notebook*](Workflow - Seasonal Storage and alternative carriers - A flexible hydrogen supply chain model.ipynb) to reproduce the results. 
 
+## License
+
+MIT License
+
+Copyright (C) 2016-2019 Markus Reuss (FZJ IEK-3), Thomas Grube (FZJ IEK-3), Martin Robinius (FZJ IEK-3), Detlef Stolten (FZJ IEK-3)
+
+You should have received a copy of the MIT License along with this program.
+If not, see https://opensource.org/licenses/MIT
 
 ## About Us 
 <a href="http://www.fz-juelich.de/iek/iek-3/EN/Forschung/_Process-and-System-Analysis/_node.html"><img src="https://www.fz-juelich.de/SharedDocs/Bilder/IEK/IEK-3/Abteilungen2015/VSA_DepartmentPicture_2019-02-04_459x244_2480x1317.jpg?__blob=normal" alt="Abteilung VSA"></a> 
