@@ -1,6 +1,7 @@
 <a href="http://www.fz-juelich.de/iek/iek-3/EN/Forschung/_Process-and-System-Analysis/_node.html"><img src="http://www.fz-juelich.de/SharedDocs/Bilder/IBG/IBG-3/DE/Plant-soil-atmosphere%20exchange%20processes/INPLAMINT%20(BONARES)/Bild3.jpg?__blob=poster" alt="Forschungszentrum Juelich Logo" width="230px"></a> 
 
 # HSC - Hydrogen infrastructure analysis tool for Python
+This tool was used for the creation of the publication "Seasonal storage and alternative carriers: A flexible hydrogen supply chain model" published in Applied Energy (<a href="https://doi.org/10.1016/j.apenergy.2017.05.050")
 
 HSC offers the functionality to calculate predefined hydrogen supply chain architectures.
 
